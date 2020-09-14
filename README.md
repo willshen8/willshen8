@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-<!--
-**willshen8/willshen8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 Hi, my name is Will and I am a fullstack engineer living in Melbourne, Australia 🇦🇺
 
 Outside my work, my hobbies are:
 
-- 🏀 Basketball, I'm a Lakers and Kobe Bryant fan.
-- 🏖️ Travel the world and see new things
-- 📸 Photography - astrophotography and landscape 
+* 🏀 Basketball, I'm a Lakers and Kobe Bryant fan.
+* 🏖️ Travel the world and see new things
+* 📸 Photography - astrophotography and landscape 
 -->
 
 **Languages and Tools:**  
