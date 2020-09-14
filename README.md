@@ -1,8 +1,6 @@
-### Hi there 👋
-
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-Hi, my name is Will and I am a fullstack engineer living in Melbourne, Australia 🇦🇺
+Hi👋, my name is Will and I am a fullstack engineer living in Melbourne, Australia 🇦🇺
 I am passionate about building user-centric application and makes a difference in people's daily lives. 
 
 Outside coding, my hobbies are:
