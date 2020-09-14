@@ -3,13 +3,14 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 Hi, my name is Will and I am a fullstack engineer living in Melbourne, Australia 🇦🇺
+I am passionate about building user-centric application and makes a difference in people's daily lives. 
 
-Outside my work, my hobbies are:
+Outside coding, my hobbies are:
 
 🏀  Basketball, I'm a Lakers and Kobe Bryant fan
 🏖️  Travel the world and see new things
 📸  Photography - astrophotography and landscape 
--->
+
 
 **Languages and Tools:**  
 
