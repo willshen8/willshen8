@@ -7,11 +7,11 @@ I am passionate about building user-centric application and makes a difference i
 
 Outside coding, my hobbies are:
 
-🏀  Basketball, I'm a Lakers and Kobe Bryant fan
+🏀   Basketball, I'm a Lakers and Kobe Bryant fan
 
-🏖️  Travel the world and see new things
+🏖️   Travel the world and see new things
 
-📸  Photography - astrophotography and landscape 
+📸   Photography - astrophotography and landscape 
 
 
 **Languages and Tools:**  
